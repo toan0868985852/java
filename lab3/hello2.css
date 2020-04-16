@@ -1,0 +1,23 @@
+xsampdoc{
+     border: 2px solid blue;
+     width: 200px;
+     height: 300px;
+     margin: 150px auto;
+     overflow: auto;
+     white-space: nowrap;
+ }
+greeting{
+    display: block;
+    color: red;
+    font-size: 40px;
+}
+[class=ans] extension{
+    color: blue;
+    display: block;
+    font-size: 40px;
+}
+[class=ans] question{
+    display: block;
+    font-size: 30px;
+    padding-top: 10px;
+}
