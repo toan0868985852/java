@@ -1,0 +1,48 @@
+{
+  "menu": {
+    "header": "Adobe SVG Viewer",
+    "item": [
+      "Open : Open",
+      "Open",
+      "OpenNew : OpenNew",
+      "OpenNew"
+    ],
+    "separator": null,
+    "item": [
+      "ZoomIn : ZoomIn",
+      "ZoomIn",
+      "ZoomOut : ZoomOut",
+      "ZoomOut",
+      "OriginalView : OriginalView",
+      "OriginalView"
+    ],
+    "separator": null,
+    "item": [
+      "Quality : Quality",
+      "Quality",
+      "Pause : Pause",
+      "Pause",
+      "Mute : Mute",
+      "Mute"
+    ],
+    "separator": null,
+    "item": [
+      "Find : Find",
+      "Find...",
+      "FindAgain : FindAgain",
+      "FindAgain",
+      "Copy : Copy",
+      "Copy",
+      "CopyAgain : CopyAgain",
+      "CopyAgain",
+      "CopySVG : CopySVG",
+      "CopySVG",
+      "ViewSVG : ViewSVG",
+      "ViewSVG",
+      "ViewSource : ViewSource",
+      "ViewSource",
+      "SaveAs : SaveAs",
+      "SaveAs"
+    ]
+  }
+}
